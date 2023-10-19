@@ -4,3 +4,5 @@ this allows you to show embedded media content from these tweets easily to your 
 # How to use
 Just make a discord app on discord developers portal and paste your app token on the ``config.json`` file, then run the bot using ``python .\bot.py`` in terminal.
 Remember to enable privileged gateway intent for message content as the bot uses it.
+
+![Example](example.png)
