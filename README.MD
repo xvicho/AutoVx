@@ -5,4 +5,7 @@ this allows you to show embedded media content from these tweets easily to your 
 Just make a discord app on discord developers portal and paste your app token on the ``config.json`` file, then run the bot using ``python .\bot.py`` in terminal.
 Remember to enable privileged gateway intent for message content as the bot uses it.
 
+# More info
+Read more about vxtwitter and how it works [here](https://github.com/dylanpdx/BetterTwitFix)
+
 ![Example](example.png)
